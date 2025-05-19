@@ -1,5 +1,5 @@
 <!-- 상단 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Yerin%20Na&fontSize=50&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Helllo%20I'm%20Yerin%20Na&fontSize=50&fontAlignY=40" />
 
 <p align="center">
   🌱 성장하는 개발자 나예린입니다.<br/>
