@@ -31,14 +31,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerongnyr&layout=compact&theme=default" />
 </div>
 
----
-
-## 📫 Contact Me
-
-<p align="center">
-  📧 nerong1106@naver.com<br/>
-  🔗 <a href="https://github.com/nerongnyr" target="_blank">github.com/nerongnyr</a>
-</p>
-
 <!-- 하단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=200&section=footer" />
