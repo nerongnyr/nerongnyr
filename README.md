@@ -26,10 +26,16 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nerongnyr&show_icons=true&theme=default" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerongnyr&layout=compact&theme=default" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nerongnyr&show_icons=true&theme=default" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerongnyr&layout=compact&theme=default" />
+    </td>
+  </tr>
+</table>
 
 <!-- 하단 배너 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90E2&height=200&section=footer" />
